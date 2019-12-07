@@ -1,0 +1,9 @@
+{
+  "name": "WeChat",
+  "version": "1.0.0",
+  "description": "Real time Chat with socket.io",
+  "main": "index.js",
+  "repository": "https://github.com/esdrasac/Real-Time-Chat-With-socket.io",
+  "author": "Esdras Aguilar",
+  "license": "MIT"
+}
