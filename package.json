@@ -5,5 +5,20 @@
   "main": "index.js",
   "repository": "https://github.com/esdrasac/Real-Time-Chat-With-socket.io",
   "author": "Esdras Aguilar",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "exrpess": "^0.0.1-security",
+    "jquery": "^3.4.1",
+    "socket.io-client": "^2.3.0",
+    "socketio": "^1.0.0"
+  }
 }
