@@ -7,7 +7,7 @@ class RabbitMQ{
     }
 
 
-     connect(url = 'amqp://guest:guest@tup02hml011:5672'){
+     connect(url = 'amqp://localhost:5672'){
         return new Promise((resolve, reject) => {
             amqp.connect(url)
                 .then(connection => resolve(connection))
