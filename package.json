@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "amqplib": "^0.5.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "exrpess": "^0.0.1-security",
     "jquery": "^3.4.1",
