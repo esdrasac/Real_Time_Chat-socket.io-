@@ -15,7 +15,7 @@
   "dependencies": {
     "amqplib": "^0.5.5",
     "axios": "^0.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "exrpess": "^0.0.1-security",
     "jquery": "^3.4.1",
     "socket.io-client": "^2.3.0",
